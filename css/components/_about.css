@@ -1,0 +1,18 @@
+.about {
+    background: #151515;
+}
+
+.about__body {
+    padding-top: 65px;
+}
+
+.about__title {
+    padding-bottom: 30px;
+
+}
+
+.about__txt {
+    text-align: center;
+    font-size: 19px;
+    padding-bottom: 65px;
+}

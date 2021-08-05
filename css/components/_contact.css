@@ -1,0 +1,42 @@
+.contact {
+}
+
+.contact__body {
+    padding-bottom: 45px;
+}
+
+.contact__title {
+    padding-bottom: 35px;
+}
+
+.social__list {
+    display: flex;
+    justify-content: center;
+}
+
+.social__item {
+    display: block;
+    border-radius: 50%;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social__item:not(:last-child){
+    margin-right: 20px;
+}
+
+.social__item svg{
+    width: 30px;
+    height: 30px;
+    fill: var(--white-color);
+    z-index: 2;
+}
+
+.social__item:hover{
+}
+
+.social__item:hover svg{
+    fill: var(--hover);
+}

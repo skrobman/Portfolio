@@ -1,0 +1,26 @@
+.hero {
+    height: 600px;
+    background-color: #111111;
+    background-image: linear-gradient(90deg, #111111 0%, #141414 100%);    
+    /* background-image: url(../../img/hero/hero-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.hero__body{
+
+}
+
+.hero__title {
+    text-align: center;
+    padding-top: 220px;
+    padding-bottom: 30px;
+}
+
+.hero__body p{
+    font-size: 19px;
+    color: #fff;
+    text-align: center;
+    font-weight: 400;
+}

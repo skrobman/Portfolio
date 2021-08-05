@@ -1,0 +1,49 @@
+.skills {
+}
+
+.skill__title {
+    padding-top: 45px;
+    padding-bottom: 55px;
+}
+
+.skills__list {
+    padding-bottom: 65px;
+}
+
+.skills__item:not(:last-child) {
+    padding-bottom: 15px;
+}
+
+.skills__item__item{
+
+}
+
+.skills__item__item span{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.skills__item__item li{
+    padding-bottom: 5px;
+}
+
+.skills__item__item li:not(:last-child){
+    margin-right: 15px;
+}
+
+progress{
+    width: 500px;
+    height: 40px;
+    display: block;
+    border-radius: 6px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+progress::-webkit-progress-bar { 
+    background: #ffffff; 
+}
+progress::-webkit-progress-value { 
+    background: var(--hover); 
+}
