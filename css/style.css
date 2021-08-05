@@ -1,14 +1,14 @@
-@import "https://skrobman.github.io/css/_normalize.css";
-@import "https://skrobman.github.io/css/_fonts.css";
-@import "https://skrobman.github.io/css/_variables.css";
-@import "https://skrobman.github.io/css/_global.css";
-@import "https://skrobman.github.io/css/_overall.css";
+@import "_normalize.css";
+@import "_fonts.css";
+@import "_variables.css";
+@import "_global.css";
+@import "_overall.css";
 
-@import "https://skrobman.github.io/css/components/_header.css";
-@import "https://skrobman.github.io/css/components/_hero.css";
-@import "https://skrobman.github.io/css/components/_about.css";
-@import "https://skrobman.github.io/css/components/_skills.css";
-@import "https://skrobman.github.io/css/components/_work.css";
-@import "https://skrobman.github.io/css/components/_contact.css";
-@import "https://skrobman.github.io/css/components/_footer.css";
-@import "https://skrobman.github.io/css/components/_media.css";
+@import "./components/_header.css";
+@import "./components/_hero.css";
+@import "./components/_about.css";
+@import "./components/_skills.css";
+@import "./components/_work.css";
+@import "./components/_contact.css";
+@import "./components/_footer.css";
+@import "./components/_media.css";
