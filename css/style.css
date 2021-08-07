@@ -4,11 +4,11 @@
 @import "_global.css";
 @import "_overall.css";
 
-@import "./components/_header.css";
-@import "./components/_hero.css";
-@import "./components/_about.css";
-@import "./components/_skills.css";
-@import "./components/_work.css";
-@import "./components/_contact.css";
-@import "./components/_footer.css";
-@import "./components/_media.css";
+@import "~/components/_header.css";
+@import "~/components/_hero.css";
+@import "~/components/_about.css";
+@import "~/components/_skills.css";
+@import "~/components/_work.css";
+@import "~/components/_contact.css";
+@import "~/components/_footer.css";
+@import "~/components/_media.css";
